@@ -1,0 +1,23 @@
+.about-container {
+    background-color: #f8f8f8;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .about-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    color: #333;
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    color: #555;
+    font-size: 18px;
+    line-height: 1.6;
+    font-weight:lighter;
+  }
